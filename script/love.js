@@ -39,7 +39,7 @@ function init() {
     ctx.font = "60px Arial";
     ctx.fillStyle = "lightblue";
     ctx.textAlign = "center";
-    ctx.fillText("I love you sayang", width / 2, height / 2.2 + 400);
+    ctx.fillText("I Love U GEA", width / 2, height / 2.2 + 400);
   }
 
   function heartPosition(rad) {
@@ -184,3 +184,4 @@ document.addEventListener("DOMContentLoaded", function () {
   init();
   continueMusic();
 });
+
