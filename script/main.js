@@ -26,7 +26,7 @@ const messages = [
     "padahal",
     "aku cuma mau bilang",
     "kepasar beli terasi pulangnya makan kadal",
-    "UDAH SEGENDER BEDA AGAMA PULAA",
+    "UDAH SEGENDER BEDA  AGAMA PULAA",
     "JIAKHHHH",
     "HHAHAHAHHAAAAA",
     "bjiirlah",
@@ -126,5 +126,6 @@ function setupMusic() {
         document.removeEventListener('click', startMusic);
     });
 }
+
 
 document.addEventListener('DOMContentLoaded', setupMusic);
